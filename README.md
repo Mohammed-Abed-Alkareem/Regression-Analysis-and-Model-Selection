@@ -18,8 +18,6 @@ This project involves building and evaluating regression models to predict car p
    - **Polynomial Regression**
    - **Radial Basis Function (RBF) Regression**
 3. Compare models using performance metrics:
-   - Mean Squared Error (MSE)
-   - Mean Absolute Error (MAE)
    - R-squared
 4. Implement **forward feature selection** to optimize input features.
 5. Apply **regularization techniques** to minimize overfitting.
